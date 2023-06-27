@@ -1,1 +1,1 @@
-# TUH-TUAR-Dataset-Artifact-Detection.
+# TUH-TUAR-Dataset-Artifact-Detection
